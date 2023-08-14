@@ -2,7 +2,7 @@
 
 // alert(3+2) //we are using nodejs, not browser
 
-// console.log(3+3) console.log("hello")
+// console.log(3+3) console.log("hello") //error
 
 // console.log(3+3); console.log("hello")
 

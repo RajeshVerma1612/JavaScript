@@ -32,3 +32,28 @@ const myFunction = function(){
 // console.log(typeof myFunction) // function
 
 // Java script is Dynamically typed
+
+
+/**************************************************/
+
+// Stack(Primitive), Heap(Non-Primitive)
+   
+let var1="Rajesh"
+let var2=var1 
+
+
+var2="Rahul"
+
+// console.log(var1)
+// console.log(var2)
+
+let user1= {
+    email: "123@gmail.com",
+    upi:12345
+}
+let user2=user1
+
+user2.upi=12233
+
+console.log(user1)
+console.log(user2)
