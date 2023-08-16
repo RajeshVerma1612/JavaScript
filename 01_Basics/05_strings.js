@@ -31,7 +31,7 @@ const x2=ipv4.split('.')
 // console.log(x2) //[ '125', '245', '345', '222' ]
 
 const x5="   Rajesh  "
-// console.log(x5.trim()) //"Rajesh"
+// console.log(x5.trim()) //"Rajesh" 
 
 const url="https://rajesh.com/rajesh%20verma"
 // console.log(url.replace('%20','-')) //https://rajesh.com/rajesh-verma
